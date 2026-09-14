@@ -68,10 +68,9 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/asif213067/contribution-snake/blob/output/grid.svg)
+### 🐍 GitHub Contributions
 
-![Snake Grid](https://raw.githubusercontent.com/asif213067/contribution-snake/output/grid.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/asif213067/contribution-snake/output/github-contribution-grid-snake.svg)
 
 <!--
 ### GitHub Statistics:
