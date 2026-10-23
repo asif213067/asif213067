@@ -1,5 +1,6 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="./banner/Modern Full-Stack Developer Portfolio Banner.png
+" alt="Hello world">
 
 <br/>
 
