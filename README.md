@@ -18,7 +18,6 @@
 <br/>
 
 <!--- about --->
-\<!--- about --->
 
 - 👋 Hi, I'm **Asif Hosen**, a Full-Stack Software Developer focused on building scalable, efficient, and user-friendly web applications.
 - 💻 Working with **React, Next.js, JavaScript, TypeScript, Node.js, Express.js, and MongoDB**.
