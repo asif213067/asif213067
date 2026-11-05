@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/PortfolioBanner.png" alt="Hello world">
+<img src="./banner/PortfolioBanner.png" alt="Asif Hosen">
 
 <br/>
 
@@ -45,8 +45,11 @@
 <div>
   <p align="left">
     <a href="https://asif-hosen.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-2B90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
+  <img src="./banner/logo.png"
+       alt="Portfolio logo"
+       width="35"
+       height="35" />
+</a>
     <a href="https://www.linkedin.com/in/asif-hosen/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
