@@ -8,32 +8,51 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Asif Hosen</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+%26+TypeScript+Enthusiast;Exploring+Backend+Development" alt="Typing SVG" /></a>
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;JavaScript+%26+TypeScript+Enthusiast;Exploring+Backend+Development" alt="Typing SVG" /></a> -->
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Always+Learning;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</a>
   </ul>
 </div>
 
 <br/>
 
 <!--- about --->
-- 👋 Hi, I'm **Asif Hosen**, an aspiring Full-Stack Developer.
-- 🚀 Currently learning and building projects with the **MERN Stack**.
-- 💻 Working with **React, JavaScript, TypeScript, Node.js, Express.js, and MongoDB**.
-- 🎨 Building modern and responsive interfaces with **HTML, CSS, Tailwind CSS, and Bootstrap**.
-- 🧠 Programming foundation in **C, C++, and Python**.
+\<!--- about --->
+
+- 👋 Hi, I'm **Asif Hosen**, a Full-Stack Software Developer focused on building scalable, efficient, and user-friendly web applications.
+- 💻 Working with **React, Next.js, JavaScript, TypeScript, Node.js, Express.js, and MongoDB**.
+- 🎨 Creating responsive and user-friendly interfaces with **HTML, CSS, and Tailwind CSS**.
+- 🧠 Building a strong programming foundation with **C, C++, and Python**.
 - 🔐 Exploring **Backend Development, REST APIs, Authentication, and Database Design**.
-- 💡 I enjoy **problem-solving** and turning ideas into real-world applications.
-- 🌱 Continuously learning and improving my **software development skills**.
-- 🎯 Interested in **Full-Stack, Backend, and Software Development**.
+- 🚀 Passionate about **problem-solving, software development, and turning ideas into practical solutions**.
+- 🌱 Always learning, improving, and exploring new technologies.
+- 🌐 Explore my [Personal Portfolio](https://asif-hosen.vercel.app/).
+
   
 <br/>
 
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div>
+<!-- <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/asif-hosen-13597a248/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://discord.com/users/asif105010" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+  </p>
+</div> -->
+
+<div>
+  <p align="left">
+    <a href="https://asif-hosen.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-2B90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/asif-hosen/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://discord.com/users/asif105010" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
+    </a>
   </p>
 </div>
 
