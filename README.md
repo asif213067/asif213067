@@ -70,23 +70,23 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/asif213067)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/asif213067)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/asif213067)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/asif213067)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/asif213067)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/asif213067)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,render)](https://github.com/asif213067)
 
 ### Design & Graphics:
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,penpot)](https://github.com/asif213067)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,docker)](https://github.com/asif213067)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,docker,antigravity,postman,stripe)](https://github.com/asif213067)
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Programming Profile:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/asifhosen1050" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asifhosen1050" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asifhosen105010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asifhosen105010" height="30" width="40" /></a>
