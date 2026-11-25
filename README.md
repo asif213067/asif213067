@@ -82,7 +82,7 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,penpot)](https://github.com/asif213067)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,docker,antigravity,postman,stripe)](https://github.com/asif213067)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/asif213067)
 
 <br/>
 
